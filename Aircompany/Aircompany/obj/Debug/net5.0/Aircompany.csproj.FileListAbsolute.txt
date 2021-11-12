@@ -1,0 +1,31 @@
+D:\Aircompany\Aircompany\Aircompany\obj\Debug\net5.0\Aircompany.csproj.AssemblyReference.cache
+D:\Aircompany\Aircompany\Aircompany\obj\Debug\net5.0\Aircompany.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aircompany\Aircompany\Aircompany\obj\Debug\net5.0\Aircompany.AssemblyInfoInputs.cache
+D:\Aircompany\Aircompany\Aircompany\obj\Debug\net5.0\Aircompany.AssemblyInfo.cs
+D:\Aircompany\Aircompany\Aircompany\obj\Debug\net5.0\Aircompany.csproj.CoreCompileInputs.cache
+D:\Aircompany\Aircompany\Aircompany\bin\Debug\net5.0\Aircompany.exe
+D:\Aircompany\Aircompany\Aircompany\bin\Debug\net5.0\Aircompany.deps.json
+D:\Aircompany\Aircompany\Aircompany\bin\Debug\net5.0\Aircompany.runtimeconfig.json
+D:\Aircompany\Aircompany\Aircompany\bin\Debug\net5.0\Aircompany.runtimeconfig.dev.json
+D:\Aircompany\Aircompany\Aircompany\bin\Debug\net5.0\Aircompany.dll
+D:\Aircompany\Aircompany\Aircompany\bin\Debug\net5.0\ref\Aircompany.dll
+D:\Aircompany\Aircompany\Aircompany\bin\Debug\net5.0\Aircompany.pdb
+D:\Aircompany\Aircompany\Aircompany\obj\Debug\net5.0\Aircompany.dll
+D:\Aircompany\Aircompany\Aircompany\obj\Debug\net5.0\ref\Aircompany.dll
+D:\Aircompany\Aircompany\Aircompany\obj\Debug\net5.0\Aircompany.pdb
+D:\Aircompany\Aircompany\Aircompany\obj\Debug\net5.0\Aircompany.genruntimeconfig.cache
+D:\Рабочий стол\Aircompany\Aircompany\bin\Debug\net5.0\Aircompany.exe
+D:\Рабочий стол\Aircompany\Aircompany\bin\Debug\net5.0\Aircompany.deps.json
+D:\Рабочий стол\Aircompany\Aircompany\bin\Debug\net5.0\Aircompany.runtimeconfig.json
+D:\Рабочий стол\Aircompany\Aircompany\bin\Debug\net5.0\Aircompany.runtimeconfig.dev.json
+D:\Рабочий стол\Aircompany\Aircompany\bin\Debug\net5.0\Aircompany.dll
+D:\Рабочий стол\Aircompany\Aircompany\bin\Debug\net5.0\ref\Aircompany.dll
+D:\Рабочий стол\Aircompany\Aircompany\bin\Debug\net5.0\Aircompany.pdb
+D:\Рабочий стол\Aircompany\Aircompany\obj\Debug\net5.0\Aircompany.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\Aircompany\Aircompany\obj\Debug\net5.0\Aircompany.AssemblyInfoInputs.cache
+D:\Рабочий стол\Aircompany\Aircompany\obj\Debug\net5.0\Aircompany.AssemblyInfo.cs
+D:\Рабочий стол\Aircompany\Aircompany\obj\Debug\net5.0\Aircompany.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Aircompany\Aircompany\obj\Debug\net5.0\Aircompany.dll
+D:\Рабочий стол\Aircompany\Aircompany\obj\Debug\net5.0\ref\Aircompany.dll
+D:\Рабочий стол\Aircompany\Aircompany\obj\Debug\net5.0\Aircompany.pdb
+D:\Рабочий стол\Aircompany\Aircompany\obj\Debug\net5.0\Aircompany.genruntimeconfig.cache
